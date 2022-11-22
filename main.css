@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 180vh;
+}
+.navbar-style{
+    /* box-shadow: 0 5px 10px #efefef; */
+    font-size: 3vh;
+}
+.nav-item.active a {
+    color: rgb(148, 146, 146);
+  }
+.logo{
+    height: 48px;
+    /* padding: 2px 10px; */
+    padding-top: 15px;
+    padding-left: 10%;
+    font-weight: bold;
+}
+.icon-bar{
+    background: black;
+}
+li a{
+    color: black;
+}
+.size{
+    height: 300px;
+    width: 300px;
+    /* padding-top: ; */
+}
+.pad{
+    padding-left: 5%;
+    padding-top: 2.8%;
+}
+.big-text{
+    font-size: 25px;
+    margin: 20px 0;
+    color: rgb(4, 106, 146);  
+}
+.big-textw{
+    font-size: 25px;
+    margin: 20px 0;
+    color: rgb(255, 255, 255);  
+}
+.first{
+    padding-bottom: 30px;;
+}
+.sizing{
+    padding: 50px;
+    color: white;
+    
+}
+.bgimg{
+    background-image: url(bgbioo.png);
+    background-size: cover;
+}
+.bg-primary-text{
+    color: white;
+}
+.sso{
+    color: blue;
+}
+.sro{
+    color: rgb(40, 163, 87);
+}
+.aph{
+    color: rgb(107, 53, 124)
+}
+.third{
+    padding-left: 5%;
+}
+.link-color{
+    color: rgb(4, 106, 146); 
+}
+
+/* Profile */
+.profile-sizing{
+    font-size: 32pt;
+    font-weight: bold;
+}
+.q-size{
+    padding-left: 5%;
+    color: rgb(255, 254, 254);
+}
+.qe-size{
+    padding-left: 5%;
+    color: rgb(5, 5, 5);
+}
+.qs-size{
+    padding-left: 5%;
+    color: rgb(7, 7, 7);
+}
+.qps-size{
+    padding-left: 5%;
+    color: rgb(255, 255, 255);
+}
+.qt-sizing{
+    padding: 3%;
+}
+.c-sizing{
+    padding-bottom: 1%;
+}
+
+/* publications */
+.pub-size{
+    font-size: medium;
+    padding-left: 6%;
+    line-height: 35px;
+    text-align: justify;
+}
+.pub-sizing{
+    padding-right: 8%;
+    padding-left: 6%;
+}
+
+.bold{
+    font-weight: bold;
+}
+.big-textpub{
+    padding-left: 3%;
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(12, 12, 12); 
+}
+.pub-name-highlight{
+    color :rgb(12, 12, 209);
+    display:inline;
+}
+.pub-link-color{
+    color: rgb(106, 185, 185);
+}
+
+.abc{
+    padding-bottom: 3%;
+}
+
+/* for navbar  */
+.ex-skill-size{
+    font-size: 2.2vh;
+    padding-left: 6%;
+    line-height: 35px;
+    text-align: justify;
+}
